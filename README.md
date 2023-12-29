@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ibrahimoo
-- 👀 I’m interested in laravel
+- 👀 I’m interested in laravel and AWS
 - 🌱 I’m currently a lot of things
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me naibad5@gmail.com
